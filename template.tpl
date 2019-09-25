@@ -1,4 +1,8 @@
-﻿___INFO___
+___TERMS_OF_SERVICE___
+Placeholder ToS content.
+
+
+___INFO___
 
 {
   "type": "TAG",
