@@ -1,4 +1,5 @@
 versions:
+  - sha: e705c63a03c09de8b8c15350adb14cd4775c2cc4
   - sha: bd31a9f6d667b7a787574cf8f5cb8cf35c5ca473
     changeNotes: Initial release of the logging tag.
   - sha: e026ae2de023a9e81bf030457cfbcbef942ad53a
