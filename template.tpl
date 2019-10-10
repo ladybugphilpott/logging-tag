@@ -16,9 +16,7 @@ ___INFO___
   "displayName": "Logging Tag",
   "brand": {
     "id": "brand_dummy",
-    "displayName": "",
-    "logo": "",
-    "thumbnail": ""
+    "displayName": ""
   },
   "description": "",
   "containerContexts": [
